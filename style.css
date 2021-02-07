@@ -1,0 +1,16 @@
+body {
+    background-color:cyan;
+  }
+  h1 {
+    color:blue;
+    background-color:orange;
+  }
+  div1_input_box_1 {
+    color:blue;
+    background-color:yellow;
+  }
+      div
+      {
+          margin: 10px;
+          width: 48%;
+      }
